@@ -1,3 +1,3 @@
-# print "Hello World!" and "Hello Github!"
+print "Hello World!" and "Hello Github!"
 
-# add "Hello Github!"
+add "Hello Github!"
